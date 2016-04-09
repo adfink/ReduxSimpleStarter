@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 // create a new component that should produce some html
 
-const App = function() {
+const App = () => {
     return <div>Hi!</div>;
 }
 
